@@ -12,3 +12,4 @@ You may also use the files provided in the repo to locally host this.
 Please do not use this program to try to download illegal videos or anything similar. Just don't.
 
 # Contributing
+If you want to directly contribute to YoutubeDL.py, please go to [Contribution Guide](https://github.com/SawshaDev/YoutubeDl.py/blob/main/.github/CONTRIBUTING.md)

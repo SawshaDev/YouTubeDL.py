@@ -2,8 +2,8 @@
 Youtube Video downloader CLI made in python!
 
 # Usage
-YoutubeDL.py is hosted at repl.it for everyone to come and use!
-repl.it: [YoutubeDL.py Repl.it](https://replit.com/@sawsha/YoutubeDLpy?v=1)
+YoutubeDL.py is hosted at repl.it for everyone to use. 
+[YoutubeDL.py Repl.it](https://replit.com/@sawsha/YoutubeDLpy?v=1)
 
 You may also use the files provided in the repo to locally host this.
 

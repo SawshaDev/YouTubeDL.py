@@ -8,9 +8,17 @@ from colorama import Fore
 
 colorama.init(autoreset=True)
 
+#if contributing, do not mess with theses lines 
+print("Warning!")
+print("This project is a WIP and it may not work properly!",
+"If there are any problems, please report it to the github:  https://github.com/SawshaDev/YoutubeDl.py \n")
+input("Press any key to continue... and enjoy!")
+os.system('clear')
+
 ascii_banner = pyfiglet.figlet_format("YoutubeDl . py")
 
 print(ascii_banner)
+print("Official Discord: https://discord.gg/8HbaQBBVWN")
 print("-----------------------------------------------------------")
 
 print("What would you like to download? \n")
